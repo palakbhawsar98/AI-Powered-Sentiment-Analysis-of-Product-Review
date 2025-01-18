@@ -1,0 +1,13 @@
+[
+    {"review_id": "1", "product_review": "Great product! Highly recommend."},
+    {"review_id": "2", "product_review": "Not worth the price, very disappointed."},
+    {"review_id": "3", "product_review": "Amazing quality, worth every penny."},
+    {"review_id": "4", "product_review": "Terrible! It stopped working after a week."},
+    {"review_id": "5", "product_review": "Good value for money, but could be improved."},
+    {"review_id": "6", "product_review": "I love it! Perfect fit and great performance."},
+    {"review_id": "7", "product_review": "Disappointed, didn’t meet expectations."},
+    {"review_id": "8", "product_review": "I’m happy with my purchase, does exactly what I need."},
+    {"review_id": "9", "product_review": "Okay product, not bad but not great either."},
+    {"review_id": "10", "product_review": "Worst purchase ever. Will not buy again."}
+]
+
