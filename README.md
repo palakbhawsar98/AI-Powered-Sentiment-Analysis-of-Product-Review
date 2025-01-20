@@ -1,5 +1,7 @@
 # AI-Powered-Sentiment-Analysis-of-Product-Review
 
+##### Article🔗 https://palak-bhawsar.hashnode.dev/ai-powered-sentiment-analysis-for-product-reviews-visualization
+
 In this project, we will create an automated pipeline for analyzing the sentiment of product reviews. Instead of building a full application, we will upload product reviews in JSON format to an Amazon S3 bucket. As soon as a new file is uploaded to S3, an S3 event notification will trigger an AWS Lambda function. This Lambda function will use the Amazon Comprehend API to perform sentiment analysis on each review in the uploaded file. Once the sentiment data is processed, the Lambda function will upload the analyzed results to a new S3 bucket in JSON format. Amazon Athena will then be used to query the sentiment data stored in S3. Finally, the data will be seamlessly integrated with Amazon QuickSight for interactive visualization, providing insightful analysis of the sentiment trends.
 
 ![AI-Powered Sentiment Analysis for Product Reviews (2)](https://github.com/user-attachments/assets/fd56850d-5b73-4a49-9809-f471b14549f6)
